@@ -1,3 +1,5 @@
+# Privacy Policy & Support for Foxhound
+
 ## Privacy Policy for Foxhound
 
 Matthew Santamaria built the Foxhound app as a Free app. This SERVICE is provided by Matthew Santamaria at no cost and is intended for use as is.
@@ -36,3 +38,7 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 **Contact Us**
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at msantam2@gmail.com
+
+## Support for Foxhound
+
+If users of this service are seeking support, please contact msantam2@gmail.com
