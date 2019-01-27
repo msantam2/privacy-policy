@@ -3,7 +3,6 @@
 Matthew Santamaria built the Foxhound app as a Free app. This SERVICE is provided by Matthew Santamaria at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
-
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
 ### Information Collection and Use
@@ -18,7 +17,7 @@ For a better experience, while using our Service, you may provide us with certai
 
 I may employ third-party services due to the following reasons:
 
-*   Text recognition of images (Firebase ML Kit); [Google Privacy Policy](https://policies.google.com/privacy)
+*   Text recognition of images (Firebase ML Kit); [Firebase Privacy Policy](https://firebase.google.com/support/privacy/) / [Google Privacy Policy](https://policies.google.com/privacy)
 
 I want to inform users of this Service that these third parties may have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
